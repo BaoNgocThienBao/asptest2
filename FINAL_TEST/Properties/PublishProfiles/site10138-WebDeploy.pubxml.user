@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF98g2Qx1u0GhmKRFF2MolAAAAAACAAAAAAAQZgAAAAEAACAAAAAXKvowwvm1s5xZsyYlAzr7sFGxTsZvtbN1OOs+bp3ErAAAAAAOgAAAAAIAACAAAADaIsJ1CdbMh0gjC0+jrTXqUJ9yPg21U4SMxkNNnFAiqCAAAAA0kzKAR+oTs8onLVHIXMVfkxZ6gLNwheEBbWRqjIb3g0AAAADapMMCRCisJxTPx87lrBzOHddGdoaprHJjUSFVhxf1DvhVUtjj8SWWlaCk+LoduTxKRFvPHmnWd0rn0Q7CTQPc</EncryptedPassword>
+    <History>True|2024-10-19T09:00:56.9038783Z||;True|2024-10-19T15:29:21.4245232+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=MSI%3b Database=TRAICAY1%3b TrustServerCertificate=Yes%3b Trusted_Connection=True%3b MultipleActiveResultSets=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
